@@ -1,0 +1,20 @@
+ [
+    {
+        "_id" : "1",
+        "title" : "Watch Shop Website",
+        "image" : "https://i.ibb.co/S0qrSpc/project1.png",
+        "description" : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section. But without login he can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page and after loggedIn he will goes to BookNow page automatically.  Then user can fill-up form with neccesary information. And When he click on submit button a popup will be show on user device that is Are you sure? you want booking this service. After successfully Booking user can show myBooking and allBooking page. Where user can delete his booking information"
+    },
+    {
+        "_id" : "2",
+        "title" : "Gym Centre Website",
+        "image" : "https://i.ibb.co/gvq7Y3y/project2.png",
+        "description" : "This is health care related website. In the home page there has six section. Those are Navbar, Banner, Service, Trainer, About us, footer.If any user click SeeDetails button he will be redicted to home page. A user can loggedIn with email, password or googleSignIn method. If new user he/she should register.After logged in if he click any services or any Book Now button user wiil see this particular service in details."
+    },
+    {
+        "_id" : "3",
+        "title" : "Tourism Website",
+        "image" : "https://i.ibb.co/h7hCmds/project3.png",
+        "description" : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section. But without login he can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page and after loggedIn he will goes to BookNow page automatically.Then user can fill-up form with neccesary information. And When he click on submit button a popup will be show on user device that is Are you sure? you want booking this service. After successfully Booking user can show myBooking and allBooking page. Where user can delete his booking information."
+    }
+]
