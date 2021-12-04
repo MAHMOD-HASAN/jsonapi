@@ -1,7 +1,7 @@
  [
     {
         "_id"   : "1",
-        "title" : "Watch Shop",
+        "title" : "WATCH SHOP",
         "image" : "https://i.ibb.co/CHY7cKB/assignment12.jpg",
         "li1"   : "This is niche (watch-shop) website. On this site a user can visit this site without login. But without loggedIn if he/she want to but something user will be redirected to login page.",
         "li2"   : "Then user can login or registered with email & password or google sign In mehtod. When user loggedIn he will be redicted to a page where he wanted to go.",
@@ -12,7 +12,7 @@
     },
     {
         "_id"   : "2",
-        "title" : "Gym Centre",
+        "title" : "GYM CENTER",
         "image" : "https://i.ibb.co/grNcMRn/assignment10.jpg",
         "li1"   : "This is health care related website. This site is create for the shake of fit man health",
         "li2"   : "In the home page there has six section. Which are Navbar, Banner, Service, Trainer, About us, footer",
@@ -23,7 +23,7 @@
     },
     {
         "_id"   : "3",
-        "title" : "Travel Agency",
+        "title" : "TRAVEL AGENCY",
         "image" : "https://i.ibb.co/N1G9gp9/assignment11.jpg",
         "li1"   : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section.",
         "li2"   : "But without login user can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page",
