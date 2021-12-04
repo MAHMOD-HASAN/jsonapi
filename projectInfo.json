@@ -1,20 +1,35 @@
  [
     {
         "_id" : "1",
-        "title" : "Watch Shop Website",
-        "image" : "https://i.ibb.co/S0qrSpc/project1.png",
-        "description" : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section. But without login he can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page and after loggedIn he will goes to BookNow page automatically.  Then user can fill-up form with neccesary information. And When he click on submit button a popup will be show on user device that is Are you sure? you want booking this service. After successfully Booking user can show myBooking and allBooking page. Where user can delete his booking information"
+        "title" : "Watch Shop",
+        "image" : "https://i.ibb.co/CHY7cKB/assignment12.jpg",
+        "li1"   : "This is niche (watch-shop) website. On this site a user can visit this site without login. But without loggedIn if he/she want to but something user will be redirected to login page.",
+        "li2"   : "Then user can login or registered with email & password or google sign In mehtod. When user loggedIn he will be redicted to a page where he wanted to go.",
+        "li3"   : "Then user can order with necessary information.",
+        "li4"   : "After LoggedIn user will be able to show a dashboard page. A normal user can see his order on dashboard page. where user can manage his order. Besides user can give feedback goes to feedback route.",
+        "li5"   : "But an Admin can manage all users and users order also. And admin can make admin any user.Admin can add new sevices also.",
+        "technology" : "React Js, React Bootstrap, Material UI, React Router, Node Js, Mongodb Atlas, Firebase"
     },
     {
         "_id" : "2",
-        "title" : "Gym Centre Website",
-        "image" : "https://i.ibb.co/gvq7Y3y/project2.png",
-        "description" : "This is health care related website. In the home page there has six section. Those are Navbar, Banner, Service, Trainer, About us, footer.If any user click SeeDetails button he will be redicted to home page. A user can loggedIn with email, password or googleSignIn method. If new user he/she should register.After logged in if he click any services or any Book Now button user wiil see this particular service in details."
+        "title" : "Gym Centre",
+        "image" : "https://i.ibb.co/grNcMRn/assignment10.jpg",
+        "li1" : "This is health care related website. This site is create for the shake of fit man health",
+        "li2" : "In the home page there has six section. Which are Navbar, Banner, Service, Trainer, About us, footer",
+        "li3" : "A user can logIn/register this site with email, password or googleSignIn method. If new user he/she should register.",
+        "li4" : "After logged in if he click any services or any Book Now button user wiil see this particular service in details.",
+        "li5" : "besides it's a sngle page application. user can go one page to another page using route system.",
+        "technology" "React Js, React Bootstrap, React Router, Node Js, Firebase"
     },
     {
         "_id" : "3",
-        "title" : "Tourism Website",
-        "image" : "https://i.ibb.co/h7hCmds/project3.png",
-        "description" : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section. But without login he can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page and after loggedIn he will goes to BookNow page automatically.Then user can fill-up form with neccesary information. And When he click on submit button a popup will be show on user device that is Are you sure? you want booking this service. After successfully Booking user can show myBooking and allBooking page. Where user can delete his booking information."
+        "title" : "Travel Agency",
+        "image" : "https://i.ibb.co/N1G9gp9/assignment11.jpg",
+        "li1" : "This is Travel Agency Website. On this site i used three pages and into the home page has six section. Any user can see these section.",
+        "li2" : "But without login user can not Book any tourist spot. If user click BookNow button without loggedIn he will be redirect to login page",
+        "li3" : "And after loggedIn he will goes to BookNow page automatically.  Then user can fill-up form with neccesary information.",
+        "li4" : "And When he click on submit button a popup will be show on user device that is Are you sure? you want booking this service.",
+        "li5" : "After successfully Booking user can show myBooking and allBooking page. Where user can delete his booking information",
+        "technology" : "React Js, React Bootstrap, React Router, Node Js, Mongodb Atlas, Firebase"
     }
 ]
